@@ -1,0 +1,42 @@
+Collecting line-bot-sdk
+remote:          Downloading line_bot_sdk-1.16.0-py2.py3-none-any.whl (59 kB)
+remote:        Collecting flask
+remote:          Downloading Flask-1.1.2-py2.py3-none-any.whl (94 kB)
+remote:        Collecting psycopg2
+remote:          Downloading psycopg2-2.8.5.tar.gz (380 kB)
+remote:        Collecting peewee
+remote:          Downloading peewee-3.13.3.tar.gz (2.3 MB)
+remote:        Collecting pymysql
+remote:          Downloading PyMySQL-0.9.3-py2.py3-none-any.whl (47 kB)
+remote:        Collecting flash
+remote:          Downloading flash-1.0.3-py3-none-any.whl (2.7 kB)
+remote:        Collecting APScheduler
+remote:          Downloading APScheduler-3.6.3-py2.py3-none-any.whl (58 kB)
+remote:        Collecting future
+remote:          Downloading future-0.18.2.tar.gz (829 kB)
+remote:        Collecting requests>=2.0
+remote:          Downloading requests-2.24.0-py2.py3-none-any.whl (61 kB)
+remote:        Collecting click>=5.1
+remote:          Downloading click-7.1.2-py2.py3-none-any.whl (82 kB)
+remote:        Collecting Werkzeug>=0.15
+remote:          Downloading Werkzeug-1.0.1-py2.py3-none-any.whl (298 kB)
+remote:        Collecting itsdangerous>=0.24
+remote:          Downloading itsdangerous-1.1.0-py2.py3-none-any.whl (16 kB)
+remote:        Collecting Jinja2>=2.10.1
+remote:          Downloading Jinja2-2.11.2-py2.py3-none-any.whl (125 kB)
+remote:        Collecting pytz
+remote:          Downloading pytz-2020.1-py2.py3-none-any.whl (510 kB)
+remote:        Collecting tzlocal>=1.2
+remote:          Downloading tzlocal-2.1-py2.py3-none-any.whl (16 kB)
+remote:        Collecting six>=1.4.0
+remote:          Downloading six-1.15.0-py2.py3-none-any.whl (10 kB)
+remote:        Collecting idna<3,>=2.5
+remote:          Downloading idna-2.10-py2.py3-none-any.whl (58 kB)
+remote:        Collecting urllib3!=1.25.0,!=1.25.1,<1.26,>=1.21.1
+remote:          Downloading urllib3-1.25.9-py2.py3-none-any.whl (126 kB)
+remote:        Collecting chardet<4,>=3.0.2
+remote:          Downloading chardet-3.0.4-py2.py3-none-any.whl (133 kB)
+remote:        Collecting certifi>=2017.4.17
+remote:          Downloading certifi-2020.6.20-py2.py3-none-any.whl (156 kB)
+remote:        Collecting MarkupSafe>=0.23
+remote:          Downloading MarkupSafe-1.1.1-cp36-cp36m-manylinux1_x86_64.whl (27 kB)
